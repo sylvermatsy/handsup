@@ -7,7 +7,7 @@ Citizen.CreateThread(function()
 end)
 
 
-RegisterKeyMapping('main', Config.Desc, 'keyboard' Config.Touche)
+RegisterKeyMapping('main', Config.Desc, 'keyboard', Config.Touche)
 RegisterCommand('main', function()
     if not handsup then
         TaskPlayAnim(PlayerPedId(-1), dict, "handsup_enter", 8.0, 8.0, -1, 50, 0, false, false, false)
