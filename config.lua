@@ -1,5 +1,3 @@
 Config                            = {}
-
-Config.Touche = X -- https://docs.fivem.net/docs/game-references/controls/
-
+Config.Touche = X
 Config.Desc = Lever Les Mains
