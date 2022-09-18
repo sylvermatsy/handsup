@@ -1,6 +1,6 @@
 fx_version 'cerulean'
-games {'gta5'}
-version '1.0'
+game 'gta5'
+version '1.2' -- Optimisation à 00,00MS
 
 author '"Sylver MATSY#7445'
 name 'sy_handsup'
