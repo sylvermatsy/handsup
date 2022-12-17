@@ -10,7 +10,7 @@ Citizen.CreateThread(function()
 end)
 
 
-RegisterCommand('handsup', function()
+RegisterCommand("handsup", function()
     if not handsup then
         TaskPlayAnim(PlayerPedId(-1), anim_dict, anim_desc, 8.0, 8.0, -1, 50, 0, false, false, false)
         handsup = true
@@ -20,4 +20,4 @@ RegisterCommand('handsup', function()
     end
 end)
 
-RegisterKeyMapping('handsup', "Lever Les Mains", "keyboard", "X")
+RegisterKeyMapping("handsup", "Lever Les Mains", "keyboard", "X")
