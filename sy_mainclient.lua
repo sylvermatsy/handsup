@@ -1,6 +1,6 @@
 local handsup = false
 local anim_dict = "missminuteman_1ig_2"
-local anim_desc = "handsup_enter"
+local anim_desc = "handsup_base"
 
 Citizen.CreateThread(function()
     RequestAnimDict(anim_dict)
