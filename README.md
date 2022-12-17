@@ -28,14 +28,7 @@
 
 ### <p align="center">👁️‍🗨️ &nbsp;Cliquez pour rejoindre le discord</p>
 
-<p align="center">
-<a href="https://discord.gg/cocktaildev">
-    <img
-      alt="Support"
-      src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
-    />
-  </a>
-</p>
+### <p align="center">[![Cocktail Discord](https://discord.com/api/guilds/786670914439610408/widget.png?style=banner4)](https://discord.gg/cocktaildev)</p>
 
 -----
 
